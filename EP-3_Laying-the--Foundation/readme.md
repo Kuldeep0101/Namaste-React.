@@ -1,7 +1,5 @@
-Chapter 03 - Laying the Foundatio
-
+Chapter 03 - Laying the Foundation
 Topics
-
 ● JSX
 ● React.createElement vs JSX
 ● Benefits of JSX
@@ -10,10 +8,7 @@ Topics
 ● Components
 ● Functional Components
 ○ Composing Components
-
-
 Assignment
-
 ● What is JSX?
 ● Superpowers of JSX
 ● Role of type attribute in script tag? What options can I use there?
@@ -34,9 +29,7 @@ JSX
 ○ Add a search bar in middle
 ○ Add User icon on right
 ○ Add CSS to make it look nice
-
 References
-
 ● Babel: https://babeljs.io/
 ● Attribute Type:
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script#attr-type
