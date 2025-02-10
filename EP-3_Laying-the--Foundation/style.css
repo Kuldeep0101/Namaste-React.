@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* display: flex; */
+}
+
+.header{
+    display: flex;  
+    align-items: center; 
+    justify-content: space-between;
+    padding: 10px;
+    /* background-color: #2967a6; */
+    border: 1px solid black ;
+}
+
+.logo{
+height: 60px;
+}
+
+.input-box{
+height: 30px;
+width: 200px;
+background-color: #fff;
+color: black;
+border-radius: 5px;
+}
+
+.user-icon{
+    height: 60px;
+}
